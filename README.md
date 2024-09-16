@@ -1,4 +1,2 @@
-# OrthoEngine
-3D rendering engine written with openGL
-Keyboard settings can be configured in Settings.h
-Mouse sensitivity not implemented yet (though can be changed via  PollControls2(camera, pos, window) in Render.cpp) 
+![image](https://github.com/user-attachments/assets/099a889d-f0fd-499d-9279-c822ac3db271)
+N-Body simulation written in C/C++ with OpenGL
